@@ -1,0 +1,18 @@
+.theTitle{
+	color: Orchid;
+	list-style-type: none;
+}
+.jumbotron{
+	background-color: SkyBlue;
+}
+body{
+	font-family: "Indie Flower", cursive;
+	color:MediumPurple;
+	background-color: SlateGrey;
+	width:100vw;
+	height:100vh;
+}
+
+.btn{
+	color:Teal;
+}
